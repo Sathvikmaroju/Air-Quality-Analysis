@@ -1,7 +1,7 @@
-# Air Quality Data in India (2015-2020)
+# Air Quality 
 
 Air is what keeps humans alive. Monitoring it and understanding its quality is of immense importance to our well-being.
 
-The dataset contains air quality data and AQI (Air Quality Index) at daily level of various stations across multiple cities in India.
+### Data set source : https://archive.ics.uci.edu/ml/datasets/Air+quality
 
-###The data set is taken from kaggle
+Data contains the responses of a gas multisensor device deployed on the field in an Italian city. Hourly responses averages are recorded along with gas concentrations references from a certified analyzer.
